@@ -59,28 +59,6 @@
 
 ---
 
-### 📊 GitHub Metrics & Contributions
-
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=LaliFefer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaliFefer&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" alt="Top Languages" /></td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LaliFefer&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://raw.githubusercontent.com/LaliFefer/LaliFefer/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" width="100%" />
 </div>

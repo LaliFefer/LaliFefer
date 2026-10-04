@@ -1,63 +1,65 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,4,15&height=160&section=header&text=Lali%20Fefer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Lali%20Fefer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 </div>
 
 <div align="center">
-  <h3>🚀 Full-Stack Software Engineer & System Architect</h3>
-  <p>Specializing in robust backend systems, clean architecture, and cutting-edge AI-driven workflows.</p>
+  <h3>⚡ Full-Stack Software Engineer & Distributed Systems Architect</h3>
+  <p>Specializing in resilient microservices architecture, event-driven backends, and autonomous AI engineering pipelines.</p>
 
   <p>
     <a href="https://linkedin.com/in/lali-fefer" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="mailto:lali.fefer@gmail.com">
+    <a href="mailto:ffr7569@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
     </a>
-    <img src="https://img.shields.io/badge/Status-Open_to_Opportunities-00F5D4?style=flat-square&logo=semantic-release&logoColor=black" alt="Status">
+    <img src="https://img.shields.io/badge/Status-Production_Ready-00F5D4?style=flat-square&logo=semantic-release&logoColor=black" alt="Status">
   </p>
 </div>
 
 ---
 
-### 👨‍💻 About Me
-* **Software Engineering Background**: Practical Software Engineering graduate (*הנדסאי תוכנה*) with rigorous academic foundation in advanced data structures, algorithms, and graph theory.
-* **Core Philosophy**: Passionate about writing maintainable, testable, and highly optimized code adhering to **SOLID**, **Clean Architecture**, **CQRS**, and **DDD** principles.
-* **Tech Stack Diversity**: Proven ability to architect full-stack applications from database schema design to high-performance APIs and reactive frontends.
+### 🏛️ Engineering Philosophy & Core Expertise
+* **Robust Backend & Microservices**: Designing highly available distributed financial and enterprise services utilizing event-driven paradigms, asynchronous message brokers, and fault-tolerant network topologies.
+* **Rigorous Architectural Patterns**: Strict adherence to **Clean Architecture**, **CQRS**, **Domain-Driven Design (DDD)**, **SOLID principles**, and comprehensive **Test-Driven Development (TDD)**.
+* **AI Integration & Agentic Workflows**: Bridging system engineering with cutting-edge LLMs, structured semantic parsing via Pydantic, and Model Context Protocol (MCP) server architectures.
 
 ---
 
-### 🛠️ Technical Competencies
+### 🛠️ Technical Arsenal
 
-| Domain | Technologies & Frameworks |
+| Domain | Stack & Technologies |
 | :--- | :--- |
-| **Languages** | `C#`, `Python`, `TypeScript`, `JavaScript`, `SQL`, `C++`, `Java` |
-| **Backend & APIs** | `.NET 8`, `ASP.NET Core`, `FastAPI`, `Node.js`, `SignalR`, `Entity Framework Core` |
-| **Frontend & UI** | `React`, `Next.js`, `Angular`, `Tailwind CSS`, `Bootstrap`, `Zustand` |
-| **Databases & Caching** | `SQL Server`, `PostgreSQL`, `MongoDB`, `Redis` |
-| **Architecture & Testing**| `Clean Architecture`, `CQRS`, `DDD`, `TDD`, `SOLID Design Principles` |
-| **DevOps & Tooling** | `Docker`, `Docker Compose`, `GitHub Actions`, `Git`, `Cursor`, `Linux` |
-| **AI Engineering** | `Model Context Protocol (MCP)`, `LangGraph`, `Pinecone`, `RAG Pipelines` |
+| **Languages** | `C#`, `Python`, `TypeScript`, `Java`, `C++`, `SQL`, `Node.js` |
+| **Backend & Microservices** | `.NET 8`, `Spring Boot`, `Spring Cloud`, `FastAPI`, `ASP.NET Core`, `SignalR` |
+| **Messaging & Distributed Systems** | `Apache Kafka`, `RabbitMQ`, `Redis`, `Eureka Server`, `Feign Client` |
+| **Databases & ORM** | `SQL Server`, `PostgreSQL`, `MongoDB`, `Entity Framework Core`, `Spring Data JPA` |
+| **Frontend Architecture** | `React`, `Angular`, `TypeScript`, `Tailwind CSS`, `Thymeleaf` |
+| **Infrastructure & DevOps** | `Docker`, `Kubernetes`, `CI/CD Pipelines`, `OpenTelemetry`, `Terraform` |
+| **AI & LLM Engineering** | `Model Context Protocol (MCP)`, `LangGraph`, `RAG Pipelines`, `Google Gemini API` |
 
 ---
 
-### 🏆 Key Production & Open-Source Projects
+### 🚀 Production-Grade Systems & Architecture Highlights
 
-* **🍦 Scoopy (Ice Cream Shop Management Suite)**
-  * *Tech*: `.NET 8 ASP.NET Core API`, `SignalR`, `Entity Framework Core`, `Google OAuth`, Glassmorphism UI.
-  * *Highlights*: Real-time state synchronization across clients, secure authentication flows, and clean multi-layered backend architecture.
-* **💰 PocketWise / SmartPocket**
-  * *Tech*: `C# ASP.NET Core`, `Angular`, `React`, `SQL Server`.
-  * *Highlights*: Full-stack hierarchical category management system, structured RESTful endpoints, and optimized database queries.
-* **🤖 AI Career Optimizer Pro**
-  * *Tech*: `Python`, `Model Context Protocol (MCP)`, `Google Generative AI`, `Streamlit`.
-  * *Highlights*: Custom MCP server implementation, automated candidate matching pipelines, and structured AI agent interactions.
-* **⚙️ WIT (Custom Git-like VCS)**
-  * *Tech*: `Python`, `Click Library`, JSON metadata indexing.
-  * *Highlights*: Built from scratch to master lower-level version control mechanics (repository initialization, staging snapshots, and checkout recovery).
+* **🏦 Distributed Insurance System**
+  * *Stack*: `Java`, `Spring Boot`, `Spring Cloud`, `Apache Kafka`, `MySQL`.
+  * *Architecture*: Resilient microservices ecosystem designed for high availability. Implements service discovery via Eureka, declarative REST mapping with Feign Client, and Spring Cloud Gateway routing.
+  * *Resilience*: Decoupled backend communication using Apache Kafka as an event-driven message broker, ensuring loose coupling, asynchronous processing, and fault tolerance under high-load scenarios.
+
+* **📈 CatalystIQ (Real-Time Market Scanner)**
+  * *Stack*: `.NET 8`, `Node.js`, `TypeScript`, `PostgreSQL`, `Advanced SQL`.
+  * *Architecture*: End-to-end distributed components processing real-time telemetry and financial data streams.
+  * *Performance*: Engineered robust API contracts, exponential backoff retry policies, and multi-layered caching strategies to mitigate latency and handle traffic spikes efficiently. Optimized query execution plans and database indexing for high-frequency data retrieval.
+
+* **🤖 AI Career Optimizer Pro (Autonomous AI Agent)**
+  * *Stack*: `Python`, `FastAPI`, `Model Context Protocol (MCP)`, `Google Gemini API`, `Streamlit`, `Pandas`.
+  * *Architecture*: Built an autonomous agent backend leveraging FastAPI separated from LLM orchestration through an MCP protocol layer.
+  * *Pipelines*: Developed Pydantic-backed semantic parsing pipelines for automated token optimization, candidate ranking, and real-time ATS compliance analytics.
 
 ---
 
-### 📊 GitHub Metrics & Activity
+### 📊 GitHub Metrics & Contributions
 
 <div align="center">
   <table>
@@ -80,5 +82,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,4,15&height=80&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" width="100%" />
 </div>
